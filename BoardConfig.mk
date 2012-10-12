@@ -38,4 +38,4 @@ TARGET_RECOVERY_UI_LIB := librecovery_ui_grouper
 -include vendor/asus/grouper/BoardConfigVendor.mk
 include device/asus/grouper/BoardConfigCommon.mk
 TARGET_KERNEL_SOURCE := kernel/asus/grouper
-TARGET_KERNEL_CONFIG := cyanogenmod_grouper_defconfig
+TARGET_KERNEL_CONFIG := luna_grouper_defconfig
